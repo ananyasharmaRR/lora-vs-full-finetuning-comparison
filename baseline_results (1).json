@@ -1,0 +1,8 @@
+{
+  "method": "Full Fine-tuning (Baseline)",
+  "accuracy": 0.865,
+  "train_runtime_seconds": 26.6,
+  "total_parameters": 66955010,
+  "trainable_parameters": 66955010,
+  "trainable_percent": 100.0
+}

@@ -1,0 +1,8 @@
+{
+  "method": "LoRA Fine-tuning",
+  "accuracy": 0.865,
+  "train_runtime_seconds": 31.9,
+  "total_parameters": 67694596,
+  "trainable_parameters": 739586,
+  "trainable_percent": 1.0925
+}
